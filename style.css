@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+}
+
+#videos iframe {
+	width: 80%;
+}
+
+
+input {
+	background: grey;
+}
+
+.navbar-inverse{
+
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
+#marquee-style{
+	background-color: lightskyblue;
+	color: black;
+}
+.contact_1 a{
+	margin-left: ;
+}
